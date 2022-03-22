@@ -7,7 +7,7 @@ class ArraylistDemo1
    al.add("Raja");                                            //Default capacity=10
    al.add(30);                                               //New Capacity=(cc*3/2)+1
    al.add(null);
-   al.add("Raja"); 
+   al.add("Raja");                                             //k
    System.out.println(al.remove(1));
    System.out.println(al);
    al.set(0,"Rahul"); 

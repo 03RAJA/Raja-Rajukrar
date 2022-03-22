@@ -17,4 +17,4 @@ class ArraylistDemo1
    al.add(0,"Akshay"); 
    System.out.println(al);
    }
-}[p;[.[.[;[
+}
